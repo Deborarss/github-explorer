@@ -5,23 +5,6 @@
 <h4 align="center">
 	 Github Explorer 🔎
 </h4>
-<p align="center">
-
-  <img alt="language version" src="https://img.shields.io/badge/Node-v_12.16.2-339933?logo=node.js">
-
-  <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
-
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/yuriduarte/github-explorer">
-
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/yuriduarte/github-explorer?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/yuriduarte/github-explorer">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-</p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

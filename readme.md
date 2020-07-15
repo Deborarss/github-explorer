@@ -7,46 +7,40 @@
 </h4>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 📋 Projeto
+## 📋 Project
 
-- Aplicação desenvolvida para realizar pesquisas de repositórios utilizando a API do Github.<br><br><br>
+- Application developed to perform repository searches using the Github API.
+  <br><br><br>
 
-## 💻 Como usar
+## 💻 How to use
 
-Para clonar e rodar essa aplicação você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado no seu computador. Na sua linha de comando:
+You'll need to install [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/)
 
-### Clone esse repositório
-
-```bash
-# Digite o comando abaixo para clonar o repositório
-$ git clone https://github.com/yuriduarte/github-explorer.git
-```
-
-### Iniciando o Projeto
+### Cloning the repository
 
 ```bash
-# Vá para o repositório Back-end
-$ cd github-explorer
-
-# Instale as dependencias
-$ yarn
-
-# Para iniciar o servidor
-$ yarn start
+# Clone the repository
+git clone https://github.com/Deborarss/github-explorer.git
 ```
 
-## 💻 Tecnologias
+### Starting the project
 
-Essas são as tecnologias utilizadas nesse projeto
+```bash
+# Go to project
+cd github-explorer
 
-💻- [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/),
+# Install dependencies
+yarn
 
-## 📝 License
+# Run the project
+yarn start
+```
 
-Este projeto está sob a licença MIT. Consulte o [LICENSE](LICENSE.md) para obter detalhes.
+## 💻 Tools
+
+[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/)

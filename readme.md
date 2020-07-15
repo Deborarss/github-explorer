@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tools">Tools</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tools">Tools</a>
 </p>
 
 ## 📋 Project
@@ -43,4 +43,4 @@ yarn start
 
 ## 💻 Tools
 
-[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/pt-br/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/)
+[React.JS](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Styled-Components](https://styled-components.com/)

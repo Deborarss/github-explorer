@@ -1,5 +1,5 @@
 <h1 align="center">
-    <h2>Github Explorer:</>
+    Github Explorer:
 </h1>
 
 <h4 align="center">

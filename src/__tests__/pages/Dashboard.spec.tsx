@@ -7,6 +7,12 @@ import Dashboard from '../../pages/Dashboard';
 
 const apiMock = new MockAdapter(api);
 
+jest.mock('react-router-dom', () => {
+  return {
+    Link: ({ children }: { children: React.ReactNode }) => children,
+  };
+});
+
 const wait = (amount = 0): Promise<void> => {
   return new Promise(resolve => setTimeout(resolve, amount));
 };
@@ -42,8 +48,6 @@ describe('Dashboard Page', () => {
 
     await actWait();
 
-    expect(getByTestId('repository')).toContainElement(
-      getByText('Deborarss/iHelp'),
-    );
+    expect(getByText('Deborarss/iHelp')).toBeTruthy();
   });
 });

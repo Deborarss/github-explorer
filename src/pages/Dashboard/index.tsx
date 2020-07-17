@@ -77,7 +77,8 @@ const Dashboard: React.FC = () => {
 
       <Repositories>
         {repositories.map(repository => (
-          <Link
+          <a
+            data-testid="repository"
             key={repository.full_name}
             to={`/repositories/${repository.full_name}`}
           >
@@ -90,7 +91,7 @@ const Dashboard: React.FC = () => {
               <p>{repository.description}</p>
             </div>
             <FiChevronRight size={20} />
-          </Link>
+          </a>
         ))}
       </Repositories>
     </>

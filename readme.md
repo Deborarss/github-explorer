@@ -43,4 +43,4 @@ yarn start
 
 ## 💻 Tools
 
-[React.JS](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Styled-Components](https://styled-components.com/)
+[React.JS](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Styled-Components](https://styled-components.com/), [Jest](https://jestjs.io/)
